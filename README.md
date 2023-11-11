@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishnudharan24
-- First year Btech.IT undergrad
+- Btech.IT undergrad
 - 👀 I’m interested in learning to code and a bunch of different stuffs
 - 📫 How to reach me ig: @_vishnudharan_
 
