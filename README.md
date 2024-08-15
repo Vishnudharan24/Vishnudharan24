@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning B.Tech Information Technology
 - 💞️ I’m looking to collaborate on some cool projects with some new thing to learn
 - 📫 How to reach me
--     @Linkedin: https://www.linkedin.com/in/vishnudharan-baskar
--     @Instagram: https://www.instagram.com/_vishnudharan_/
+- @Linkedin: https://www.linkedin.com/in/vishnudharan-baskar
+- @Instagram: https://www.instagram.com/_vishnudharan_/
 - ⚡ Fun fact: 404
 
 <!---
