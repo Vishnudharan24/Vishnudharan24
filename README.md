@@ -7,7 +7,7 @@
 - @Instagram: https://www.instagram.com/_vishnudharan_/
 - ⚡ Fun fact: 404
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=Vishnudharan24)](https://github.com/Vishnudharan24/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Vishnudharan24)](https://github.com/Vishnudharan24/github-profile-trophy)
 
 <!---
 Vishnudharan24/Vishnudharan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
